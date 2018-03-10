@@ -355,7 +355,6 @@ def winning_team
   puts winner 
 end 
 
-winning_team
 
 
 
